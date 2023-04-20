@@ -2,16 +2,16 @@
 This repository provides an overview of some common and useful PHP libraries, categorized by their functionality. This list is not exhaustive but serves as a starting point for exploring various PHP libraries.
 
 ## Table of Contents
-1. Web Development and Networking
-2. Data Processing and Analysis
-3. Databases
-4. File and Directory Manipulation
-5. Text Processing and Regular Expressions
-6. Time and Date Management
-7. Multithreading and Concurrency
-8. Email and Messaging
-9. Testing and Debugging
-10. Authentication and Authorization
+- [Web Development and Networking](#Web-Development-and-Networking)
+- [Data Processing and Analysis](#Data-Processing-and-Analysis)
+- [Databases](#Databases)
+- [File and Directory Manipulation](#File-and-Directory-Manipulation)
+- [Text Processing and Regular Expressions](#Text-Processing-and-Regular-Expressions)
+- [Time and Date Management](#Time-and-Date-Management)
+- [Multithreading and Concurrency](#Multithreading-and-Concurrency)
+- [Email and Messaging](#Email-and-Messaging)
+- [Testing and Debugging](#Testing-and-Debugging)
+- [Authentication and Authorization](#Authentication-and-Authorization)
 
 1. Web Development and Networking
 - Guzzle: A library for making HTTP requests, simpler and more convenient than file_get_contents.
