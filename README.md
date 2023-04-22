@@ -69,3 +69,5 @@ This repository provides an overview of some common and useful PHP libraries, ca
 - Socialite: A library for handling OAuth authentication with various social media platforms, such as Facebook, Twitter, and Google. (Laravel-based)
 
 Feel free to contribute and update this list as you discover new libraries or gain experience with the existing ones. This will help beginners!
+## Credits
+S. Volkan Kücükbudak
